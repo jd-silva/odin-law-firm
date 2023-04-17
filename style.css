@@ -11,10 +11,15 @@ img {
 
 .hero {
     display: flex;
+    justify-content: center;
 }
 
 .text-container {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+}
+
+.top {
+    max-height: 30%;
 }
