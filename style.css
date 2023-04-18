@@ -69,6 +69,8 @@ button {
     font-size: 36px;
     color: #1F2937;
     font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .info {
@@ -76,6 +78,7 @@ button {
     justify-content: center;
     flex-wrap: wrap;
     gap: 40px;
+    padding-bottom: 95px;
 }
 
 .lawyer-image {
