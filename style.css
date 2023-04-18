@@ -134,3 +134,11 @@ button {
 .quote-name {
     padding-left: 30px;
 }
+
+.action-container {
+    display: flex;
+    background-color: #3882F6;
+}
+
+
+
