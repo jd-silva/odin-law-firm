@@ -141,14 +141,14 @@ button {
     margin-left: 20%;
     margin-right: 20%;
     padding: 20px 30px;
-    border-radius: 12px;
+    border-radius: 6px;
     margin-top: 80px;
     margin-bottom: 80px;
     justify-content: center;
+    gap: 20px;
 }
 
-.no-button {
-    max-width: 20px;
+.text-text {
+    display: flex;
 }
-
 
