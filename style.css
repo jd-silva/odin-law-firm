@@ -1,7 +1,8 @@
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     color: white;
+    padding: 20px;
 }
 
 img {
@@ -13,6 +14,7 @@ img {
 .hero {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .text-container {
@@ -26,6 +28,7 @@ img {
 .top {
     max-height: 40%;
     background-color: #1F2937;
+    margin: 0;
 }
 
 a {
