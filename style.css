@@ -6,7 +6,7 @@
     font-size: 24px;
 }
 
-img {
+.main-image {
     width: 500px;
     height: 250px;
     flex-shrink: 0;
@@ -73,9 +73,13 @@ button {
 
 .info {
     display: flex;
+    justify-content: space-between;
 }
 
 .lawyer-image {
-    width: 100px;
-    height: 100px;
+    width: 145px;
+    height: 150px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
 }
