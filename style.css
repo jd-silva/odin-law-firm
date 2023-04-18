@@ -70,3 +70,12 @@ button {
     color: #1F2937;
     font-weight: bold;
 }
+
+.info {
+    display: flex;
+}
+
+.lawyer-image {
+    width: 100px;
+    height: 100px;
+}
