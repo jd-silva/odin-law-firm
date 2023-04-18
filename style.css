@@ -155,3 +155,7 @@ button {
     display: flex;
 }
 
+.third-title {
+    font-weight: bold;
+    font-size: 20px;
+}
