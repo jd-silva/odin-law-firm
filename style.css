@@ -134,7 +134,8 @@ button {
 }
 
 .quote-name {
-    padding-left: 30px;
+    padding-left: 500px;
+    font-weight: bold;
 }
 
 .action-container {
