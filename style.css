@@ -114,6 +114,7 @@ button {
 .picture-text {
     flex-wrap: wrap;
     max-width: 175px;
+    text-align: center;
 }
 
 .quote-container {
