@@ -165,5 +165,6 @@ button {
     display: flex;
     justify-content: center;
     color: #F9FAF8;
+    padding: 30px;
 }
 
